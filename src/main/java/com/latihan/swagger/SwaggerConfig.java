@@ -30,7 +30,7 @@ public class SwaggerConfig {
     private ApiInfo apiInfo(){
         ApiInfo apiInfo = new ApiInfo(
                 "My First API",
-                "Ini adalah API pertama Doni APriano",
+                "Ini adalah API pertama Doni Apriano",
                 "v1.0",
                 "Terms of service",
                 new Contact("Doni Apriano", "www.instagram.com/apr.java", "dapriano795@gmail.com"),
